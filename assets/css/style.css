@@ -1,0 +1,48 @@
+body {
+  background-color: rgb(148, 0, 0);
+  text-align: center;
+  color: white;
+  padding-top: 150px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+form {
+  border: solid rgb(255, 249, 249) 3px;
+  padding: 10px;
+  background-color: red;
+}
+#sport-input {
+  background-color: white;
+  color: red;
+}
+#add-sport {
+  width: 30%;
+  border: white solid 1px;
+  background-color: red;
+  color: white;
+}
+
+#add-sport:hover {
+  transform: scale3d(1.1, 1.1, 1.1);
+}
+
+img {
+  border: 2px white solid;
+  height: 400px;
+  width: 400px;
+  margin: 5px;
+}
+
+.sport-button {
+  margin: 5px;
+  border: white solid 1px;
+  background-color: red;
+  color: white;
+}
+.sport-button:hover {
+  transform: scale3d(1.5, 1.5, 1.5);
+}
+
+#sport-buttons {
+  padding-bottom: 7x;
+}
