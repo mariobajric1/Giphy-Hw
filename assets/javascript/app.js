@@ -8,7 +8,6 @@ $(document).ready(function() {
     "swimming"
   ];
 
-  // function to make buttons and add to page
   function makeButton(arr, classes, where) {
     $(where).empty();
     for (var i = 0; i < arr.length; i++) {
